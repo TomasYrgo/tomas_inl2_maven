@@ -1,0 +1,7 @@
+Maven Goals
+
+mvn compiler:compile
+mvn clean:clean
+mvn javadoc:javadoc
+mvn surefire:test
+mvn jar:jar

@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/yrgo/utvecklingsverktyg/library/tomas_inl2_maven/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/yrgo/utvecklingsverktyg/library/tomas_inl2_maven/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\src\main\java = 1706185531117
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\allclasses-index.html = 1706775214027
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\allpackages-index.html = 1706775214031
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\element-list = 1706775213884
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\help-doc.html = 1706775214068
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\index-all.html = 1706775214061
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\index.html = 1706775214010
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\jquery-ui.overrides.css = 1706775214091
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\member-search-index.js = 1706775214040
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\module-search-index.js = 1706775214034
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\overview-summary.html = 1706775214063
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\overview-tree.html = 1706775214005
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\package-search-index.js = 1706775214036
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\script.js = 1706775214074
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\search.js = 1706775214077
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\serialized-form.html = 1706775213935
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\stylesheet.css = 1706775214072
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\tag-search-index.js = 1706775214042
+C:\yrgo\utvecklingsverktyg\library\tomas_inl2_maven\library\target\site\apidocs\type-search-index.js = 1706775214039
